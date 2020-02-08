@@ -1,0 +1,26 @@
+_repo: Charles-Dwight-or-the-missionary-s-son_61131
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/ebooks/author/216
+description: ''
+gutenberg_issued: '2020-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Children -- Death -- Juvenile literature'
+- !lcc 'BV'
+- !lcsh 'Missionaries -- Juvenile literature'
+- !lcsh 'Christian life -- Juvenile literature'
+- GITenberg
+title: Charles Dwight; or, the missionary's son
+url: http://www.gutenberg.org/ebooks/61131
